@@ -1,0 +1,25 @@
+.top{
+    color: rgb(0, 0, 0);
+    margin: 1cm;
+}
+.text{
+    padding: 1px;
+}
+img{
+    padding: 2px;
+    border: 2px solid #ccc;
+    margin-top: 20px;
+
+}
+body{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(235, 236, 156);
+}
+button{
+    padding: 10px;
+    margin: 10px;
+}
+p{
+    size: 10cm;
+}
